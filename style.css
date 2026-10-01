@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color: #299e9e;
+}
+
+.caja{
+    border: 1px solid aqua;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
